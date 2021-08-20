@@ -31,7 +31,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 ## Link to Website
-- 
+- https://carvasquez206.github.io/JavaScriptPassword3/
 
 ## git commands
 - git fetch
