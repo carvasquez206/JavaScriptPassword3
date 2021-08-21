@@ -43,7 +43,9 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ## Screenshot
-![_Users_carlosvasquez_html_Practice_h3_HomeWork3_index html](https://user-images.githubusercontent.com/63617482/130334202-66fc9498-71b9-47f1-9f90-a8253c5e2796.png)
+![_Users_carlosvasquez_html_Practice_h3_HomeWork3_index html (1)](https://user-images.githubusercontent.com/63617482/130335303-1c9298f6-6bb6-491a-ad5c-28fb6cec3e34.png)
+
+
 
 ## Review
 
