@@ -1,4 +1,4 @@
-# JavaScriptPasswordGenerator3
+# JavaScriptPassword3
 
 ## Task
 Create an application with clean JavaScript that generates a random password.
@@ -43,6 +43,7 @@ THEN the password is either displayed in an alert or written to the page
 
 
 ## Screenshot
+![_Users_carlosvasquez_html_Practice_h3_HomeWork3_index html](https://user-images.githubusercontent.com/63617482/130334202-66fc9498-71b9-47f1-9f90-a8253c5e2796.png)
 
 ## Review
 
