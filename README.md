@@ -1,4 +1,4 @@
-# JavaScriptPasswordGenerator3
+# JavaScriptPassword3
 
 ## Task
 Create an application with clean JavaScript that generates a random password.
