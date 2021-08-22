@@ -15,7 +15,7 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
-
+//functions and prompts
 function generatePassword() {
   var numbers = confirm("choose a length of at least 8 characters and no more than 128 characters")
   
@@ -25,6 +25,8 @@ function generatePassword() {
   
   var special = confirm("Do you want to use special characters?")
 
+  //minimum count
   var minimumCount = 0; 
-
-}
+  
+  var 
+};
