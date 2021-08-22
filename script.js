@@ -28,5 +28,9 @@ function generatePassword() {
   //minimum count
   var minimumCount = 0; 
   
-  var 
+  var minimumNumbers = "";
+  var minimumUppercase = "";
+  var minimumLowercase = "";
+  var minimumSpecial = "";
+
 };
