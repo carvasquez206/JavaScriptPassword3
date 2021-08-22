@@ -19,10 +19,12 @@ generateBtn.addEventListener("click", writePassword);
 function generatePassword() {
   var numbers = confirm("choose a length of at least 8 characters and no more than 128 characters")
   
-  var upperCases = confirm("Do you want to include upper case letters")
+  var upperCases = confirm("Do you want to include upper case letters?")
 
-  var lowerCases = confirm("Do you want to include lower case letters")
+  var lowerCases = confirm("Do you want to include lower case letters?")
   
-  var special = confirm("Do you want to use special characters")
+  var special = confirm("Do you want to use special characters?")
+
+  var minimumCount = 0; 
 
 }
